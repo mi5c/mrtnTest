@@ -1,0 +1,16 @@
+ShazamTransfer
+Author: Martin Sula
+
+In order to run:
+** Please fill src/main/resources/server.properties with correct values!
+** You can also edit the logging properties at log4j.properties file.
+
+or
+
+**Build the war and edit the values at WEB-INF/classes
+
+
+
+To build:
+Run 'mvn package' at root folder
+
